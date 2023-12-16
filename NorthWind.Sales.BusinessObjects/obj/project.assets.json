@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "NorthWind.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NorthWind.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthWind.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.Entities/1.0.0": {
+      "type": "project",
+      "path": "../NorthWind.Entities/NorthWind.Entities.csproj",
+      "msbuildProject": "../NorthWind.Entities/NorthWind.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "NorthWind.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\michael\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Cursos\\.NET\\CleanArchitectureDemo\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj",
+      "projectName": "NorthWind.Sales.BusinessObjects",
+      "projectPath": "E:\\Cursos\\.NET\\CleanArchitectureDemo\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj",
+      "packagesPath": "C:\\Users\\michael\\.nuget\\packages\\",
+      "outputPath": "E:\\Cursos\\.NET\\CleanArchitectureDemo\\NorthWind.Sales.BusinessObjects\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Cursos\\.NET\\CleanArchitectureDemo\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+              "projectPath": "E:\\Cursos\\.NET\\CleanArchitectureDemo\\NorthWind.Entities\\NorthWind.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

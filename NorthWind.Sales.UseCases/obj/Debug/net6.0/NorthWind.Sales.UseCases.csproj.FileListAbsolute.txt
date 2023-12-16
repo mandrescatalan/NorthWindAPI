@@ -1,0 +1,17 @@
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Sales.UseCases.deps.json
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Sales.UseCases.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Sales.UseCases.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Entities.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\bin\Debug\net6.0\NorthWind.Entities.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.csproj.AssemblyReference.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.AssemblyInfoInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.AssemblyInfo.cs
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.csproj.CoreCompileInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.csproj.CopyComplete
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\refint\NorthWind.Sales.UseCases.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\NorthWind.Sales.UseCases.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.UseCases\obj\Debug\net6.0\ref\NorthWind.Sales.UseCases.dll

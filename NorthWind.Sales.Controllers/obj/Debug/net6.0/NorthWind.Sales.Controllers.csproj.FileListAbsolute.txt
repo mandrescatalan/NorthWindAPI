@@ -1,0 +1,17 @@
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.Controllers.deps.json
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.Controllers.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.Controllers.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Entities.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\bin\Debug\net6.0\NorthWind.Entities.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.csproj.AssemblyReference.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.AssemblyInfoInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.AssemblyInfo.cs
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.csproj.CoreCompileInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.csproj.CopyComplete
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\refint\NorthWind.Sales.Controllers.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\NorthWind.Sales.Controllers.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Controllers\obj\Debug\net6.0\ref\NorthWind.Sales.Controllers.dll

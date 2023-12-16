@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "reKOD9zdzJWXY+HqP7s0Ssx5V0/ys5rwu/rvwBEPLYKycCA5z8iEjYhNGvRPCbZ6upj+SmjcqHPmosIFHfhW2Q==",
+  "success": true,
+  "projectFilePath": "E:\\Cursos\\.NET\\CleanArchitectureDemo\\NorthWind.Sales.Controllers\\NorthWind.Sales.Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

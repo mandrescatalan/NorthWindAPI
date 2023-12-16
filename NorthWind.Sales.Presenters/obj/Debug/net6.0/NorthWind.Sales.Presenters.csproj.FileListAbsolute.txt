@@ -1,0 +1,17 @@
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.Presenters.deps.json
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.Presenters.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.Presenters.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Entities.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\bin\Debug\net6.0\NorthWind.Entities.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.csproj.AssemblyReference.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.AssemblyInfoInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.AssemblyInfo.cs
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.csproj.CoreCompileInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.csproj.CopyComplete
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\refint\NorthWind.Sales.Presenters.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\NorthWind.Sales.Presenters.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.Presenters\obj\Debug\net6.0\ref\NorthWind.Sales.Presenters.dll

@@ -1,0 +1,15 @@
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.deps.json
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.csproj.AssemblyReference.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.AssemblyInfoInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.AssemblyInfo.cs
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\refint\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\ref\NorthWind.Sales.BusinessObjects.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\bin\Debug\net6.0\NorthWind.Entities.dll
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\bin\Debug\net6.0\NorthWind.Entities.pdb
+E:\Cursos\.NET\CleanArchitectureDemo\NorthWind.Sales.BusinessObjects\obj\Debug\net6.0\NorthWind.Sales.BusinessObjects.csproj.CopyComplete
